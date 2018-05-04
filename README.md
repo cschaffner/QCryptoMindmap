@@ -10,6 +10,6 @@ at the 21th Annual Conference on Quantum Information Processing (QIP)
 https://qutech.nl/qip2018/
 
 To view the .mm file, download free mind mapping software Freeplane from
-http://freeplane.sourceforge.net
+https://www.freeplane.org/wiki/index.php/Home
 
 Pull requests with improvements are welcome!
